@@ -7,3 +7,6 @@ def array_with_two_elements
   new_array = ["coffee", "tea"]
   return new_array
 end
+
+def indexing (arr)
+  
