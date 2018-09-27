@@ -9,4 +9,7 @@ def array_with_two_elements
 end
 
 def indexing (arr)
+  return arr[0]
+end
+  
   
