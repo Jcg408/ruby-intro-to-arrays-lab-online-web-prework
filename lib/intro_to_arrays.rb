@@ -1,1 +1,1 @@
-arr = []
+my_new_array = []
