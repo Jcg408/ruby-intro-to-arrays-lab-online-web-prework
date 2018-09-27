@@ -8,7 +8,7 @@ def array_with_two_elements
   return new_array
 end
 
-def indexing (arr)
+def first_element (arr)
   return arr[0]
 end
   
