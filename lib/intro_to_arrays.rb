@@ -19,5 +19,14 @@ end
 def last_element (arr)
   return arr[-1]
 end
+
+def first_element_with_array_methods (arr)
+ return arr.first 
+end
+
+def last_element_with_array_methods
+  return arr.last 
+end
+  
   
   
